@@ -1,1 +1,0 @@
-java -jar "C:\Hatfield Junior Swimming School\out\artifacts\Hatfield_Junior_Swimming_School_jar\Hatfield Junior Swimming School.jar"
